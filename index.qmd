@@ -1,0 +1,7 @@
+---
+title: "Introducción al lenguaje R aplicado a sistemas y servicios de salud"
+format: html
+---
+
+## Diapositivas
+
