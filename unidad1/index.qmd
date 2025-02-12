@@ -29,11 +29,10 @@ library(tidyverse)
 [***Unidad 1***]{.custom-subtitle}
 
 
-## Introducción al lenguaje R aplicado a sistemas y servicios de salud {.title-top}
+## Intro al lenguaje R aplicado a sistemas y servicios de salud {.title-top}
 
-![](images/tablas.jpg){.absolute top="300" left="1050" width="650"}
+![](images/tablas.jpg){.absolute top="200" left="1250" width="650"}
 
-<br>
 
 > Unidad 1: Instalación e introducción al lenguaje R
 
@@ -132,7 +131,7 @@ Profundizando en su descripción podemos decir, más técnicamente, que:
 
 > es un lenguaje de programación interpretado, orientado a objetos, multiplataforma y open source pensado para el manejo de datos estadísticos.
 
-## Por lo tanto ![](images/R.png){width="8%"} ... 
+## Por lo tanto ![](images/R.png){width="8%"} ... {.title-top .smaller}
 
 . . . 
 
@@ -327,9 +326,9 @@ Una colección de paquetes de R modernos, que comparten una **gramática** y fil
 
 ![](images/tidyverse2.PNG){fig-align="center" width=35%}
 
-## Fundamentos {.title-top}
+## Fundamentos {.title-top .smaller}
 
-![](images/tidy.PNG){fig-align="center" width=40%}
+![](images/tidy.PNG){fig-align="center" width=50%}
 
 
 
@@ -421,7 +420,7 @@ Vamos a describir a las más relevantes dentro del ecosistema tidyverse y que se
 - Los vectores integer y double se conocen como vectores numéricos (numeric).
 
 
-## Dataframes {.title-top}
+## Dataframes {.title-top .smaller}
 
 <br>
 
@@ -450,7 +449,7 @@ Vamos a describir a las más relevantes dentro del ecosistema tidyverse y que se
 
 ::::
 
-## Tibbles {.title-top}
+## Tibbles {.title-top .smaller}
 
 <br>
 
@@ -607,8 +606,6 @@ read_csv2(file = "datos.csv")
 
 ## Lectura de múltiples archivos {.title-top}
 
-<br>
-
 En ocasiones trabajamos con múltiples archivos que tienen una misma estructura interna, por ejemplo provenientes de proyectos longitudinales de vigilancia epidemiológica. Supongamos que tenemos el caso de vigilancia de una enfermedad donde se produce un archivo por mes, tipo `01_SUH.csv`, `02_SUH.csv`, `03_SUH.csv`, etc hasta el mes 12.
 
 Podemos almacenar los nombre de los archivos en un vector y luego leerlos todos juntos, incorporando la identificación del archivo.
@@ -667,7 +664,7 @@ La estructura de los argumentos de la función `read_excel()` es:
 
 ## Paquete haven {.title-top}
 
-![](images/haven.png){width=15% fig-align="center"}
+![](images/haven.png){width=13% fig-align="center"}
 
 Este paquete permite la importación de archivos provenientes de paquetes estadísticos como SPSS (.sav), Stata (.dta) y SAS (.sas7bdat) y también su exporatción.
 
