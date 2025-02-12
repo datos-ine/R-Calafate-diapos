@@ -8,3 +8,5 @@ format: html
 [Unidad 1: Introducción al lenguaje R](https://datos-ine.github.io/R-Calafate-diapos/unidad1)
 
 [Unidad 2: Procesamiento de datos](https://datos-ine.github.io/R-Calafate-diapos/unidad2)
+
+[Unidad 3: Exploración, diagnóstico y limpieza de datos](https://datos-ine.github.io/R-Calafate-diapos/unidad3)
