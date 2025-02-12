@@ -921,7 +921,7 @@ datos |>
 
 <br>
 
-![](images/r4ds2.PNG){fig-align="center"}
+![](images/r4ds.PNG){fig-align="center"}
 
 ::: {.centered}
 
