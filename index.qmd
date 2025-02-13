@@ -16,3 +16,7 @@ format: html
 [Unidad 5: Estadísticos, operaciones múltiples y resúmenes](https://datos-ine.github.io/R-Calafate-diapos/unidad5)
 
 [Unidad 6: Visualización de datos](https://datos-ine.github.io/R-Calafate-diapos/unidad6)
+
+[Unidad 7: Control de flujo y funciones](https://datos-ine.github.io/R-Calafate-diapos/unidad7)
+
+[Unidad 8: Comunicar con Quarto](https://datos-ine.github.io/R-Calafate-diapos/unidad8)
