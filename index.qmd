@@ -14,3 +14,5 @@ format: html
 [Unidad 4: Tratamiento de datos específicos](https://datos-ine.github.io/R-Calafate-diapos/unidad4)
 
 [Unidad 5: Estadísticos, operaciones múltiples y resúmenes](https://datos-ine.github.io/R-Calafate-diapos/unidad5)
+
+[Unidad 6: Visualización de datos](https://datos-ine.github.io/R-Calafate-diapos/unidad6)
